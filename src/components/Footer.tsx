@@ -7,7 +7,7 @@ const Footer = () => {
           © 2026 TimeTravel Agency - Tous droits réservés
         </p>
         <p className="text-muted-foreground text-xs mb-3">
-          Projet pédagogique M1/M2 Digital & IA
+          ALVES ELIAS & REMIDESBIEN
         </p>
         <div className="flex justify-center gap-6 text-xs text-muted-foreground">
           <span className="hover:text-primary cursor-pointer transition-colors">CGV</span>
